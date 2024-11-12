@@ -1,28 +1,40 @@
 # British Airways Data Science Virtual Internship
 
-Data science virtual internship program by British Airways through Forage!
+I'm thrilled to share my experience participating in the Data Science Virtual Internship program British Airways offers through Forage! This program allowed me to apply my skills to real-world airline data and gain valuable insights into customer sentiment and buying behaviour.
+
 
 ![image](https://github.com/prathmeshlonkar10/British-Airways-Data-Science-Virtual-Internship-Project/assets/66990159/bd586143-17bf-41b7-986c-c19bf29ae92b)
 
+## The virtual Internship is divided into two main tasks 
+
+1. Web scraping to gain company insights
+2. Predicting customer buying behaviour
 
 ## Highlight
-A project that allows you to put yourself in the position of a British Airways data scientist and finish activities that imitate the work that the data science team does on a daily basis. Building predictive models to forecast customer purchasing behaviour and analysing the scraped customer review data are the two activities that make up the project.
+A project that allows you to put yourself in the position of a British Airways data scientist and finish activities that imitate the work that the data science team does daily. Building predictive models to forecast customer purchasing behaviour and analysing the scraped customer review data are the two activities that make up the project.
 
 
 
-## Task 1: Web scraping to gain company insights
-Scrape and analyze customer review data to uncover findings for British Airways
-- Apply web scraping on unstructured third-party customer review data from https://www.airlinequality.com/airline-reviews/british-airways
-- Analyze the scraped customer reviews using **Sentimental Analysis** (utilized NLTK library in Python) to classify positive, neutral, and negative reviews
-- Present your insights and analysis using PowerPoint
+## Task 1: Unveiling Customer Sentiment through Web Scraping and Analysis.
+Scrape and analyze customer review data to uncover findings for British Airways.
+1. Challenge: Extracted unstructured data from https://www.airlinequality.com/airline-reviews/british-airways/ using web scraping techniques.
+2. Action: Performed sentiment analysis on the reviews to categorize them as positive, negative, or neutral.
+3. Impact: Gathered valuable insights into customer experiences and areas for improvement.
+4. Presentation: Created a compelling PowerPoint presentation showcasing the findings and potential benefits for British Airways.
 
 
-## Task 2: Predicting customer buying behavior
+## Task 2: Predicting Customer Buying Behavior with Machine Learning.
 Build a predictive model to understand factors that influence buying behavior
-- Prepare the data by performing EDA and feature engineering techniques
-- Create a classification model to predict customer buying behavior
-- Prepare a PowerPoint representation to highlight obtained insights and analysis
+1. Challenge: Developed a classification model to predict customer buying behavior based on various factors.
+2. Action: Utilized my machine learning expertise to build and train the model for optimal predictive power.
+3. Impact: This model could potentially empower British Airways to tailor their marketing strategies and offerings to specific customer segments.
+4. Presentation: Created another insightful PowerPoint presentation outlining the model, its predictions, and potential business applications.
 
+## Overall Experience:
+This virtual internship was an exceptional learning experience. I honed my data scraping, sentiment analysis, and machine learning skills in a practical setting. Additionally, the opportunity to present my work in a professional format further strengthened my communication and presentation skills.
+
+## Looking to the future:
+I'm incredibly grateful for this chance to contribute to British Airways' data-driven initiatives. This experience has solidified my passion for data science and its ability to unlock valuable business insights. I'm eager to leverage this knowledge and continue developing my skills to make an impact in the industry.
 
 ## Technologies used
 ![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
